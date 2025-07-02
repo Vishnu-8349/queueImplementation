@@ -20,7 +20,7 @@ QueueImplementation/
 - Dynamic memory allocation in linked list version
 - Simple and readable code with comments
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - C++
 - Arrays and Linked Lists
